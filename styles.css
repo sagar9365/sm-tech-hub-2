@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9; color:#333; }
+header, footer { background:#222; color:#fff; padding:15px; position:sticky; top:0; z-index:1000; }
+header nav a, footer a { color:#fff; margin:0 10px; text-decoration:none; }
+.container { width:90%; max-width:1000px; margin:20px auto; }
+.article-card { background:#fff; margin:15px 0; padding:15px; border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,0.1); }
+.article-card img { max-width:100%; border-radius:6px; }
+.must-view { margin-top:30px; padding:15px; background:#eee; border-radius:6px; }
+.must-view h3 { margin-top:0; }
+footer { margin-top:40px; text-align:center; position:relative; bottom:0; }
